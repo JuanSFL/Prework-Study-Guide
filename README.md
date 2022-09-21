@@ -1,2 +1,24 @@
-# Prework-Study-Guide
-A study guide for course pre-work
+# Prework Study Guide
+
+## This will help me in preparing for my prework
+
+- The motivation behind this project was to develop the basic skills and familiarize my self with HTML, CSS, GIT and JavaScript before my actual bootcamp began
+- I built this application to help organize notes and key points to easily look back upon and to reference from time to time.
+- The application randomizes the topics and suggests which topic you should study rather than having to decide on your own.
+- I learned the basics of HTML, CSS, GIT, and JavaScript.
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits 
+
+N/A
+
+## License
+
+MIT License
